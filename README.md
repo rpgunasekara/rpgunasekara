@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rpgunasekara
 - 👀 I’m interested in learning essential programming languages and general knowledge for web development.
-- 🌱 I’m currently learning python and javascript.
+- 🌱 I’m currently learning javascript.
 
 <!---
 rpgunasekara/rpgunasekara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
