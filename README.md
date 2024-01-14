@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rpgunasekara
 - 👀 I’m a CS Undergrad @ UMBC
-- 🌱 Web development, Python
+- 🌱 Intreseted in data science and UX research
 
 <!---
 rpgunasekara/rpgunasekara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
