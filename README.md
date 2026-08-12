@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @rpgunasekara
 - 👀 I’m a CS Undergrad @ UMBC
-- 🌱 Check out my personal website [here](https://github.com/garukle/garukle.github.io)!
+- 🌱 Always learning
